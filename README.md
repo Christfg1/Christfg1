@@ -1,218 +1,117 @@
-<div align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner.png" />
+  <img src="assets/profile-banner.gif" width="100%" alt="Christian Fonseca — From an idea to something you can use. Mobile apps, useful tools, and practical AI." />
+</picture>
 
-# Hi there, I'm Christian Fonseca 👋
+**iOS developer / Backend builder / Applied AI**
 
-### 🚀 Software Engineering Student · iOS Developer · AI Builder
+# Hi, I'm Christian.
 
-I build AI-powered apps, backend systems, and clean user experiences with a focus on shipping real products.
+I turn ideas into tools I want to use—from an AI-powered fitness app to workspaces that coordinate AI agents.
 
-🟢 **Open to Software Engineering Internships**
-📍 San Francisco Bay Area · Remote
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a college and **Year Up United** software engineering student focused on building real-world software across mobile, backend, and AI-powered products.
-
-Right now, my main focus is **VyraAI**, an AI-powered fitness and nutrition app for iOS. I'm building it end to end — from product design and app architecture to AI workflows, computer vision, HealthKit integration, Supabase backend features, and App Store preparation.
-
-I care about building software that is useful, polished, and actually shipped.
-
-```txt
-Building products > waiting for perfection
-```
+**San Francisco Bay Area · Interested in software engineering opportunities and collaboration**
 
 ---
 
-## 🚀 What I'm Building
+## What I'm building right now
 
-### 📱 VyraAI — AI Fitness & Nutrition App for iOS
+<sub>A snapshot of my workbench · November 2026</sub>
 
-**VyraAI** is my main product project: an AI-powered fitness and nutrition app designed to help users track meals, understand nutrition, improve consistency, and connect their health data into a cleaner mobile experience.
-
-I'm building VyraAI end to end, including:
-
-* Clean **SwiftUI app architecture**
-* AI-powered meal and nutrition workflows
-* Smart food scanning and meal analysis
-* Computer vision and OCR features
-* Apple Health / HealthKit integration
-* Supabase-backed authentication and secure data storage
-* Personalized fitness and nutrition flows
-* Apple-style product design and user experience
-* App Store release preparation
-
-**Launching July 2026 on the App Store.**
-
-This project represents how I approach engineering: break down a large product, design the system, build the core features, test the experience, and keep improving until it feels real.
+| Project | Current focus |
+| --- | --- |
+| **VyraAI** · Mobile product | Refining the iOS experience, coaching workflows, localization, and testing. |
+| **AI Harness** · Agent orchestration | Coordinating coding agents with durable tasks, isolated workspaces, and review gates. |
+| **AI City** · Interactive prototype | Building a pixel-art workspace for agent tasks and approvals. Live execution remains disabled. |
 
 ---
 
-## 🧩 Featured Backend Project
-
-### 🛒 EasyShop API — Java Spring Boot E-Commerce Backend
-
-**EasyShop API** is a secure RESTful e-commerce backend built with Java and Spring Boot.
-
-It includes:
-
-* JWT authentication
-* Role-based authorization
-* Product management
-* Category management
-* Shopping cart functionality
-* User profile features
-* Checkout flow
-* MySQL database persistence
-* Layered architecture with controllers, services, and repositories
-
-**Tech used:**
-
-* Java
-* Spring Boot
-* Spring Security
-* JWT
-* Spring Data JPA / Hibernate
-* MySQL
-* Maven
-* REST API design
-
-This project helped me strengthen my backend fundamentals and better understand how production-style APIs are structured, secured, and organized.
-
----
-
-## 🧠 Engineering Interests
-
-I'm especially interested in:
-
-* iOS application development
-* AI-powered applications
-* Mobile product architecture
-* Backend API development
-* Computer vision workflows
-* Health and fitness technology
-* System design
-* Clean UI/UX
-* Full-stack product development
-
-I enjoy projects that combine **engineering, design, and real user value**.
-
----
-
-## 🛠️ Tech Stack
-
-
-
-### Languages
+## Languages I work with
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuemacs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="assets/language-swift.png" width="135" alt="Swift" />
+  <img src="assets/language-java.png" width="135" alt="Java" />
+  <img src="assets/language-python.png" width="135" alt="Python" />
+  <img src="assets/language-cpp.png" width="135" alt="C++" />
+  <img src="assets/language-assembly.png" width="135" alt="Assembly" />
+  <img src="assets/language-go.png" width="135" alt="Go" />
+  <img src="assets/language-sql.png" width="135" alt="SQL" />
+  <img src="assets/language-csharp.png" width="135" alt="C#" />
 </p>
 
-### Frameworks & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HealthKit-FF2D55?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vision%20%2F%20OCR-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-
-### Apple / iOS
-
-<p>
-  <img src="https://img.shields.io/badge/HealthKit-FF2D55?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vision%20%2F%20OCR-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+**Automation:** Google Apps Script
 
 ---
 
-## 📚 Currently Learning
+## Selected work
 
-I'm currently going deeper on:
+### VyraAI
+**A more thoughtful fitness and nutrition experience for iOS.**
 
-* Advanced SwiftUI and iOS development
-* Java backend development
-* Spring Boot
-* REST API design
-* Authentication and authorization
-* System design
-* Scalable app architecture
-* AI integrations for mobile products
+My flagship product brings meal tracking, food scanning, and health data into a cohesive mobile experience. I work across the interface, app architecture, AI integrations, and backend.
 
----
+- **The idea:** make fitness and nutrition tracking feel like one thoughtful experience.
+- **The engineering:** connect SwiftUI, HealthKit, food scanning, and a Supabase backend.
+- **The next chapter:** keep improving coaching flows, localization, and regression coverage.
 
-## 🤝 I'm Open To Collaborating On
+`Swift` `SwiftUI` `HealthKit` `Vision / OCR` `Supabase`
 
-* AI-powered applications
-* iOS apps
-* Full-stack projects
-* Startup ideas
-* Open-source projects
-* Fitness, health, and productivity tools
-* Backend API projects
+[Product support ↗](https://christfg1.github.io/vyraai-support/) · [Privacy policy ↗](https://github.com/Christfg1/vyraai-privacy-policy)
 
----
+<sub>VyraAI’s application source is private.</sub>
 
-## 💬 Ask Me About
+### EasyShop API
+**An e-commerce backend built around authentication, clear layers, and persistent data.**
 
-* SwiftUI
-* iOS development
-* AI app development
-* Supabase
-* HealthKit
-* Computer vision / OCR
-* Java backend fundamentals
-* UI/UX design
-* Building projects as a student developer
+From a product search to a completed checkout: a Java and Spring Boot API with JWT authentication, role-based access, and MySQL persistence.
 
----
+**Engineering focus:** clear controller, service, and repository boundaries.
 
-## 🎓 Education
+`Java` `Spring Boot` `Spring Security` `MySQL` `JPA`
 
-* 🎓 College Student
-* 💼 Year Up United Student
-* 📱 Focused on Software Engineering & Application Development
-* ☕ Currently strengthening Java backend and system design fundamentals
+[Explore the repository ↗](https://github.com/Christfg1/capstone-3-ecommerce-api)
+
+### WbridgeM
+**Connecting a Mac and Windows PC over a local network.**
+
+Built around a practical question: how can a Mac and Windows PC work better together? A SwiftUI client and .NET host connect file transfers, clipboard sync, and desktop control over the local network.
+
+**Engineering focus:** native platform integration and HTTP/WebSocket communication.
+
+`SwiftUI` `C#` `.NET` `WebSockets`
+
+[Explore the repository ↗](https://github.com/Christfg1/WbridgeM)
 
 ---
 
-## 📌 Current Focus
+## Frameworks, platforms & tools
 
-```txt
-VyraAI → iOS + AI + HealthKit + Supabase
-EasyShop API → Java + Spring Boot + MySQL + REST APIs
-Career Goal → Software Engineering Internship
-```
+| Mobile & product | Backend & data | AI & automation |
+| --- | --- | --- |
+| SwiftUI · HealthKit | Spring Boot · .NET | AI integrations · OCR |
+| Vision · Xcode | Supabase · MySQL | Google Apps Script |
+| UI design | REST APIs · Authentication | Git · GitHub |
+
+<details>
+<summary><strong>Also in my project lab — Keepsake & Fonari SiteScore</strong></summary>
+
+### Keepsake
+
+An internship work companion for capturing work, organizing projects, and turning reflections into evidence of growth.
+
+### Fonari SiteScore
+
+A website audit and CRM workspace connecting evidence-backed assessments, opportunities, follow-ups, and reviewable AI drafts.
+
+</details>
+
+## The thread connecting my work
+
+I enjoy making complicated workflows feel easier to use. My projects combine **product design, mobile development, backend systems, and practical AI**—with an emphasis on clear boundaries and work I can review and improve.
 
 ---
 
-## ⚡ Fun Fact
+### Let's build something useful.
 
-I enjoy combining **AI, health, fitness, and clean Apple-style design** to create software that feels modern, useful, and polished.
+Interested in collaborating on an iOS app, a backend service, or an AI-powered product?
 
----
-
-<div align="center">
-
-### Let's build something real.
-
-</div>
-
+[Find me on GitHub ↗](https://github.com/Christfg1)
